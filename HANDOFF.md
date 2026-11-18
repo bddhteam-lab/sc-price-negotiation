@@ -15,6 +15,8 @@ Generated: 2026-11-18 | Status: Phase 0–5B Completed · Google Sheet (3,714 un
 | **ลิงก์ Apps Script Editor** | `https://script.google.com/d/1ofr77c2b0aDmXng5QdNGJJGnGPrKHgp2rLNsv7YF4CRbm6evFMCuW_qT/edit` |
 | **Apps Script Web App Deployment ID (`@3`)** | `AKfycbzYZQTczZYzAszhINQWYI8hNLRLyZmSVWxoniMjTNOVLl8KoagS-oRCROT1Ky_OwtIK` |
 | **Apps Script Web App `/exec` URL** | `https://script.google.com/macros/s/AKfycbzYZQTczZYzAszhINQWYI8hNLRLyZmSVWxoniMjTNOVLl8KoagS-oRCROT1Ky_OwtIK/exec` |
+| **GitHub Repository (`bddhteam-lab`)** | `https://github.com/bddhteam-lab/sc-price-negotiation` |
+| **ลิงก์เว็บแอปจริง (GitHub Pages PWA)** | `https://bddhteam-lab.github.io/sc-price-negotiation/` |
 | **รายชื่อ Admin ตั้งต้นในชีต `Users`** | `bddhteam@gmail.com` (BD Admin), `chanyapat@scasset.com` (พี่แนท BD Admin) |
 | **จำนวนข้อมูลตั้งต้นในชีต `Units` (v1)** | 7 โครงการ · 3,714 ห้อง (`COLS` 671, `CORM9` 1,500, `COKS` 399, `RFWY` 287, `STS20` 123, `RFKS` 387, `RFS63` 347) |
 | **กฎความลับ** | คอลัมน์ `M` (`sgp`) และ `O` (`sgpCost`) ห้ามส่งถึงเครื่อง `sales` ใน API ข้อมูลห้อง (`toSalesUnitRecord` ตัดทิ้งบน server เสมอ) |
@@ -24,7 +26,7 @@ Generated: 2026-11-18 | Status: Phase 0–5B Completed · Google Sheet (3,714 un
 ## 🔁 Plan-relay state
 
 - **Skill ที่ใช้**: `plan-relay-auto`
-- **สถานะ relay**: `completed-waiting-auth` (2026-11-18 13:10)
+- **สถานะ relay**: `completed-deployed` (2026-11-18 13:53)
 - **ไฟล์แผนและผลงาน**:
   - `docs/relay/PHASE-0-PLAN.md` / `docs/relay/PHASE-0-OUTPUT.md` (Project Setup & Pure Calc Engine — 17/17 tests pass)
   - `docs/relay/PHASE-1-PLAN.md` / `docs/relay/PHASE-1-OUTPUT.md` (Excel `PriceList` Importer — 9/9 tests pass, 3,714 units)
