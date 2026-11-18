@@ -1,0 +1,26 @@
+{
+  "name": "SC Price Negotiation — ต่อรองราคา",
+  "short_name": "SC ต่อรองราคา",
+  "description": "เครื่องมือคำนวณและต่อรองราคาอสังหาริมทรัพย์สำหรับทีมขายและ BD SC Asset",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FDF3E9",
+  "theme_color": "#FD6205",
+  "lang": "th",
+  "icons": [
+    {
+      "src": "./pwa-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./pwa-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
